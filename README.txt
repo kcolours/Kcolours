@@ -1,25 +1,24 @@
-KCOLOURS AMAZON SPP WEBSITE PACKAGE
+KCOLOURS AMAZON SPP WEBSITE - VERSION 2
 
-Files:
-- index.html
-- services.html
-- about.html
-- privacy.html
-- contact.html
-- styles.css
-- assets/kcolours-logo.jpg
+Updated:
+- Added integrated U.S. launch workflow section inspired by the supplied 14-month vs 1-conversation concept.
+- Added Pricing navigation and pricing.html.
+- Added A-Z Full Service pricing structure: USD 3,000 per marketplace/country (standard reference USD 4,200).
+- Added included Compliance Management and Listing/A+ Content/Brand Store references.
+- Added actual-cost treatment for advertising/Vine/logistics/duties/FDA registration and external marketing costs.
+- Added quote-based channel expansion pricing.
+- Expanded services page with export-readiness and basic trade-document support.
 
-BEFORE PUBLISHING:
-1. Business email set to: kcolour1@gmail.com
-2. Phone number intentionally omitted from the public website.
-3. Verify the 30+ brand statement is accurate and supportable.
-4. Publish all files together so navigation links work.
-5. Use a public HTTPS URL that requires no login.
+UPLOAD TO GITHUB:
+1. Upload/replace ALL files in the repository root.
+2. Keep the assets folder and kcolours-logo.jpg.
+3. Confirm index.html, pricing.html, services.html, about.html, privacy.html, contact.html and styles.css are all at the repository root.
+4. After committing, verify:
+   - https://kcolours.kr/
+   - https://kcolours.kr/pricing.html
+   - all navigation links
+5. If GitHub Pages is connected to kcolours.kr, no DNS change is required for this content update.
 
-Recommended free hosting:
-- GitHub Pages
-- Cloudflare Pages
-- Netlify
-
-Important:
-Do not add unrelated company or brand names as clients. Only publish client names you are authorized to disclose.
+IMPORTANT:
+- The '30+ brands' statement and USD pricing should remain only if they accurately reflect Kcolours' real operations.
+- The 14-month language is framed as internal project experience and not a guaranteed timeline.
